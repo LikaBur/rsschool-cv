@@ -1,1 +1,1 @@
-# rsschool-cv
+https://likabur.github.io/rsschool-cv/
