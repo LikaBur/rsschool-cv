@@ -1,1 +1,1 @@
-<https://LikaBur.github.io/rsschool-cv/cv>
+https://likabur.github.io/rsschool-cv/
